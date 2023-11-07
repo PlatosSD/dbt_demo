@@ -122,7 +122,7 @@ Por fim, substituiremos o `ID do projeto` que foi preenchido automaticamente p
 
 Como etapa adicional, configuraremos as Credenciais de Desenvolvimento . Para fazer isso, navegue até a página ' `Credenciais`' , selecione o projeto e escolha um nome de ' `Conjunto de dados`' exclusivo para você `- dbt_NAME` (nome do usuário).
 
-![16-1024x365.png.webp](DBT%20-%20primeiros%20passos%200630605d271d4c25bb78fccda20d7937/16-1024x365.png.webp)
+![16-1024x365 png](https://github.com/PlatosSD/dbt_demo/assets/32683908/5ab0ee01-8332-4520-bff3-51d9ffdfefe4)
 
 A partir de agora, seu projeto dbt já deverá estar funcionando com dois projetos diferentes do GCP. Tudo o que resta fazer é definir o pipeline de implantação para cada ambiente individual.
 
@@ -142,7 +142,7 @@ Após construir os modelos para cada ambiente, e também no IDE Develop, você d
 
 ![17.png.webp](DBT%20-%20primeiros%20passos%200630605d271d4c25bb78fccda20d7937/17.png.webp)
 
-![18.png.webp](DBT%20-%20primeiros%20passos%200630605d271d4c25bb78fccda20d7937/18.png.webp)
+![18 png](https://github.com/PlatosSD/dbt_demo/assets/32683908/375f4fff-88af-4287-8f3c-aef4e39ec67c)
 
 1. Conclusão
 
@@ -343,7 +343,7 @@ Você pode verificar se a execução foi bem-sucedida no GitHub, na guia *Actio
 
 `Job de DBT`
 
-![17-1024x69.png.webp](DBT%20-%20primeiros%20passos%200630605d271d4c25bb78fccda20d7937/17-1024x69.png.webp)
+![17-1024x69 png](https://github.com/PlatosSD/dbt_demo/assets/32683908/f7899652-715c-4b9f-9dc3-ea9e58567d53)
 
 ### Referências
 
